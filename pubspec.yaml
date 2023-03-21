@@ -8,6 +8,7 @@ environment:
   flutter: 3.3.8
 
 dependencies:
+  auto_route: ^6.0.1
   bloc: ^8.1.0
   flutter:
     sdk: flutter
